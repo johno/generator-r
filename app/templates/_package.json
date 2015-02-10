@@ -12,7 +12,11 @@
   "dependencies": {},
   "devDependencies": {
     "gulp": "latest",
+    "gulp-rename": "latest",
+    "gulp-concat": "latest",
+    "gulp-autoprefixer": "latest",
     "browserify": "latest",
+    "vinyl-transform": "latest",
     "gulp-uglify": "latest",
     "gulp-minify-css": "latest",
     "react": "latest",
