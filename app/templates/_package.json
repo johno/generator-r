@@ -1,0 +1,28 @@
+{
+  "name": "<%= appName %>",
+  "description": "<%= description %>",
+  "version": "0.0.1",
+  "author": "<%= author %>",
+  "license": "MIT",
+  "homepage": "https://github.com/<%= github %>/<%= appName%>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<%= github %>/<%= appName%>"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "latest",
+    "browserify": "latest",
+    "gulp-uglify": "latest",
+    "gulp-minify-css": "latest",
+    "react": "latest",
+    "reactify": "latest"
+  },
+  "keywords": [
+    "generator-r",
+    "gulp",
+    "react",
+    "yo",
+    "browserify"
+  ]
+}
